@@ -1,0 +1,1 @@
+export const resolveURL = url => process.env.APP_VERSION ? `/${process.env.APP_VERSION}${url}` : url;
