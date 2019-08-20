@@ -1,0 +1,4 @@
+window.CONFIG = {
+};
+
+window.THEME = {};
