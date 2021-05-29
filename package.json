@@ -88,7 +88,7 @@
     "webpack-dashboard": "2.0.0",
     "webpack-dev-server": "3.1.4",
     "webpack-merge": "4.1.2",
-    "ws": "6.0.0"
+    "ws": "7.4.6"
   },
   "dependencies": {
     "connected-react-router": "6.3.0",
